@@ -1,5 +1,5 @@
-<img src="https://www.google.com/search?sca_esv=6201dd4f446f43b2&rlz=1C1RXQR_enIN1083IN1084&sxsrf=ADLYWIJIn55bmcCs1LOzkc2kFpB3uW931g:1723108903626&q=a+banner+for+coder&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2PRrsfVPlQRxSTpQ4UUI6wfsFlEVaMALnJjEZtYpSTLmUV5oGF4fnHSG0LbvLjVKUV0IWX-9yHknaXpsINbxRPK_rD0aGBXyqo-cUa2T6ZySNg4d875n-vXkSutq7bWvEyjXRQuBfWktFSUkoyoeiqhKHNE-BZiSEnsk93CG_Dl8i5jDTw&sa=X&ved=2ahUKEwjB7O_wiOWHAxVQmq8BHRF0DwUQtKgLegQIEBAB&biw=1536&bih=776&dpr=1.25#vhid=FEaI70gwiCxdtM&vssid=mosaic"
-alt="">
+<img src="https://thumbs.dreamstime.com/z/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg"  style="height: 40vh ; width: 100vw;"
+    alt="">
 <h1 align="center">Hi 👋, I'm Dev Saini</h1>
 <h3 align="center">A passionate python and a web developer from India</h3>
 
