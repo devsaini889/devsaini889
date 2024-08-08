@@ -1,5 +1,5 @@
-<img src="https://thumbs.dreamstime.com/z/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg"  style="height: 40vh ; width: 100vw;"
-    alt="">
+<img src="https://thumbs.dreamstime.com/z/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg"
+    style="height: 40vh ; width: 100vw;" alt="">
 <h1 align="center">Hi 👋, I'm Dev Saini</h1>
 <h3 align="center">A passionate python and a web developer from India</h3>
 
@@ -60,3 +60,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsaini889&" alt="devsaini889" />
 </p>
+<img src="https://camo.githubusercontent.com/cec08ccc416939b0144e38f0ee3027356e44462724c5def58222311260bf82c6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f70726174682d616d4368617764612f636f756e742e7376673f"
+    data-canonical-src="https://profile-counter.glitch.me/devsaini889/count.svg?" style="max-width: 100%;">
