@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ds0752607@gmail.com**
 
-- ⚡ Fun fact **a good learner**
+- ⚡ Fun fact **The best advice I ever recieved was never to give up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
