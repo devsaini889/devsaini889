@@ -4,11 +4,11 @@
 <h3 align="center">A passionate python and a web developer from India</h3>
 
 
-- 🔭 I’m currently working on **a weather website**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **python and web development**
+- 🌱 I’m currently learning **python and Machine Learning**
 
-- 🤝 I’m looking for help with **in IOT and python projects**
+- 🤝 I’m looking for help with **in python and Machine Learning projects**
 
 - 💬 Ask me about **python ,IOT and some basic electronics**
 
