@@ -1,7 +1,7 @@
 <img src="https://thumbs.dreamstime.com/z/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg"
     style="height: 40vh ; width: 100vw;" alt="">
 <h1 align="center">Hi 👋, I'm Dev Saini</h1>
-<h3 align="center">A passionate python and a web developer from India</h3>
+<h3 align="center">A passionate python and a Machine Learning enthusiast</h3>
 
 
 - 🔭 I’m currently working on **Machine Learning Projects**
